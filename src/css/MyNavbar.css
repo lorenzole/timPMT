@@ -1,0 +1,23 @@
+.monitorqueue-title{
+    color: white;
+    display: flex;
+    padding-top: 9px;
+    padding-right: 30px;
+    margin-left: -15px;
+  }
+ 
+.down{
+  color: #ffffff !important;
+}
+#nav-dropdown{
+  color: #ffffff !important;
+}
+#basic-nav-dropdown{
+  color: #ffffff !important;
+}
+.itemDrop{
+  text-decoration:'none';
+  color:'#1b3e81';
+  font-weight:'500';
+}
+

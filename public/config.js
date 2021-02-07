@@ -1,0 +1,1 @@
+var base = 'https://10.111.104.19:8080/PortaleCedRESTAPI';
